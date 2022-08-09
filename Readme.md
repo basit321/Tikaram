@@ -1,9 +1,2 @@
-# NativeBase Expo Template
-
-The official NativeBase template for [Expo](https://docs.expo.io/)
-
-## Usage
-
-```sh
-expo init my-app --template @native-base/expo-template
-```
+THe Tikaram APP 
+The app in which you buy department store items and buy food from restaurants morever you buy tickets of any airline 
